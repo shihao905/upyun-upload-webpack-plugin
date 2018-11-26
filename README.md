@@ -3,9 +3,9 @@
 基于又拍云上传的webpack插件  
 [https://github.com/shihao905/upyun-upload-webpack-plugin.git](https://github.com/shihao905/upyun-upload-webpack-plugin.git)
 
-## 简要 
+## describe  
 
-插件基于[https://github.com/shihao905/upload-upyun.git](https://github.com/shihao905/upload-upyun.git)开发
+插件基于**anve-upload-upyun**开发，单独使用访问：[https://github.com/shihao905/upload-upyun.git](https://github.com/shihao905/upload-upyun.git)
 
 ## install
 
