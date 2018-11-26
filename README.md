@@ -27,7 +27,7 @@ plugins:[
     password: 'zishu123', // 密码
     remoteFilePath: '/zishu', // 上传服务器路径
     filePath: path.resolve(__dirname, './dist') // 本地文件夹路径
-  });
+  })
 ]
 ```
 
