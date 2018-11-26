@@ -1,17 +1,17 @@
 # upyun-upload-webpack-plugin
 基于又拍云上传的webpack插件
 
-# # upyun-upload-webpack-plugin
-  
-  -[https://github.com/shihao905/upyun-upload-webpack-plugin.git](https://github.com/shihao905/upyun-upload-webpack-plugin.git)
+## 简要 
 
-## install
+插件基于[https://github.com/shihao905/upload-upyun.git](https://github.com/shihao905/upload-upyun.git)开发
+
+## 安装
 
 ```js
 $ npm install --save upyun-upload-webpack-plugin
 ```
 
-## use
+## 使用
 
 ```js
 const UpyunUpload = require('upyun-upload-webpack-plugin');
@@ -30,4 +30,4 @@ plugins:[
 ```
 
 ### 编译完成后插件会再次提示上传信息 
-![](https://img2.ultimavip.cn/ultimavip/upyun.jpg)
+![](https://img2.ultimavip.cn/ultimavip/ultimavip-uplaod.png)
