@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/shihao905/upyun-upload-webpack-plugin#readme",
   "dependencies": {
-    "anve-upload-upyun": "^1.0.3"
+    "anve-upload-upyun": "^1.0.5"
   }
 }
