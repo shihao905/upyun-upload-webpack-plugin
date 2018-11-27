@@ -1,6 +1,6 @@
 {
   "name": "upyun-upload-webpack-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "upyun upyun-upload",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/shihao905/upyun-upload-webpack-plugin#readme",
   "dependencies": {
-    "anve-upload-upyun": "^1.0.1"
+    "anve-upload-upyun": "^1.0.3"
   }
 }
